@@ -1,24 +1,26 @@
 
 .checkout{
     display: flex;
-    background-color: white;
+    background-color:bisque;
     height: max-content;
     padding: 20px;
 }
 
 
 .checkout--adv{
-
+    width:100%;
+    margin:10px;
 
 }
 
 .checkout--left{
+    background-color: white;
 
 
 }
 
 .checkout--right{
-
+    background-color: aqua;
 
 }
 
